@@ -12,20 +12,20 @@
 
 ## 目录
 
+> 此目录可能无法正常点击跳转
+
 - [目录](#目录)
 - [应用](#应用)
   - [启动器](#启动器)
   - [输入法](#输入法)
-  - [App Store](#app-store)
-  - [Web Browser](#web-browser)
-  - [Media Player](#media-player)
-  - [Streaming - YouTube](#streaming---youtube)
-  - [Streaming - Movies/TV/Anime](#streaming---moviestvanime)
-  - [Streaming - Self-hosted](#streaming---self-hosted)
-  - [Streaming - Twitch](#streaming---twitch)
-  - [Streaming - Other](#streaming---other)
-  - [File Browser](#file-browser)
-  - [Download Manager](#download-manager)
+  - [应用商店](#应用商店)
+  - [网页浏览器](#网页浏览器)
+  - [媒体播放器](#媒体播放器)
+  - [流媒体 - BiliBili](#流媒体---bilibili)
+  - [流媒体 - 电影/直播/动漫](#流媒体---电影直播动漫)
+  - [流媒体 - 其它](#流媒体---其它)
+  - [文件管理器](#文件管理器)
+  - [下载管理器](#下载管理器)
   - [Connectivity](#connectivity)
   - [Gallery](#gallery)
   - [Notifications](#notifications)
@@ -49,19 +49,19 @@
 
 - **LeanKeyKeyboard:** Keyboard for Android-based set-top boxes and TV [[Source](https://github.com/yuliskov/LeanKeyKeyboard)] [[Google Play](https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard)]
 
-### App Store
+### 应用商店
 
 - **Aurora Store:** An alternate to Google's Play Store [[Source](https://gitlab.com/AuroraOSS/AuroraStore)] [[Website](https://auroraoss.com/)] [[F-Droid](https://f-droid.org/en/packages/com.aurora.store/)] 🖱️
 - **Neo Store:** The modern and feature-rich F-Droid client for everyone! [[Source](https://github.com/NeoApplications/Neo-Store)] [[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid)] 🖱️
 - **Droid-ify:** A quick material F-Droid client [[Source](https://github.com/Droid-ify/client)] [[F-Droid](https://f-droid.org/en/packages/com.looker.droidify/)] 🖱️
 - **F-Droid Classic:** F-Droid client with the classic UI [[Source](https://git.bubu1.eu/Bubu/fdroidclassic)] [[F-Droid](https://f-droid.org/en/packages/eu.bubu1.fdroidclassic/)] 📺 🖱️ 🛑
 
-### Web Browser
+### 网页浏览器
 
 - **TV Bro:** Simple web browser optimized to use with TV remote [[Source](https://github.com/truefedex/tv-bro)] [[Google Play](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser)]
 - **DTVfree:** Simple, fast and lightweight Web browser for Android TV [[Source](https://github.com/InukaAsith/DTVfree)]
 
-### Media Player
+### 媒体播放器
 
 - **Kodi:** An award-winning free and open source software media player and entertainment hub for digital media [[Source](https://github.com/xbmc/xbmc)] [[Website](https://kodi.tv/)] [[F-Droid](https://f-droid.org/en/packages/org.xbmc.kodi/)] [[Google Play](https://play.google.com/store/apps/details?id=org.xbmc.kodi)]
 - **VLC:** A free and open source cross-platform multimedia player [[Source](https://github.com/videolan/vlc-android)] [[Website](https://www.videolan.org)] [[F-Droid](https://f-droid.org/en/packages/org.videolan.vlc/)] [[Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc)]
@@ -70,40 +70,18 @@
 - **Fermata:** a free, open source audio, video and TV player with a simple and intuitive interface [[Source](https://github.com/AndreyPavlenko/Fermata)] [[Google Play](https://play.google.com/store/apps/details?id=me.aap.fermata)]
 - **Just (Video) Player:** Simple video player based on ExoPlayer library [[Source](https://github.com/moneytoo/Player)] [[F-Droid](https://f-droid.org/packages/com.brouken.player/)] [[Google Play](https://play.google.com/store/apps/details?id=com.brouken.player)]
 
-### Streaming - YouTube
+### 流媒体 - BiliBili
 
-- **SmartTube:** An advanced (YouTube) player for Android TVs and TV boxes [[Source](https://github.com/yuliskov/smarttube)] [[Website](https://smarttubeapp.github.io/)]
-- **NewPipe:** Lightweight YouTube frontend [[Source](https://github.com/TeamNewPipe/NewPipe)] [[Website](https://newpipe.net/)] [[F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)]
-- **Tubular:** A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike [[Source](https://github.com/polymorphicshade/Tubular)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.tubular)]
-- **Clipious:** Client for Invidious, the privacy focused YouTube front end [[Source](https://github.com/lamarios/clipious)] [[F-Droid](https://f-droid.org/packages/com.github.lamarios.clipious/)]
+### 流媒体 - 电影/直播/动漫
 
-### Streaming - Movies/TV/Anime
-
-- **Stremio:** A video streaming application, that allows you to watch and organize video content from different services [[Source](https://github.com/Stremio)] [[Website](https://www.stremio.com/)] [[Google Play](https://play.google.com/store/apps/details?id=com.stremio.one)] ⚠️
-- **Streamflix:** An Android TV app to stream movies and TV shows for free [[Source](https://github.com/stantanasi/streamflix)]
-- **CloudStream:** App for streaming and downloading media [[Source](https://github.com/recloudstream/cloudstream)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
-- **Flixclusive:** A modern streaming service app that provides users with a convenient way to play and watch the latest movies and TV shows available on the internet. [[Source](https://github.com/rhenwinch/Flixclusive)]
-- **AnimeTV:** Android TV application for watching your favorite anime series and movies [[Source](https://github.com/amarullz/AnimeTV)]
-- **Digilog TV:** A free and open-source TV news app [[Source](https://github.com/aldrinzigmundv/digilogtv)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.aldrinzigmundv.digilogtv/)] [[Google Play](https://play.google.com/store/apps/details?id=io.github.aldrinzigmundv.digilogtv)]
-
-### Streaming - Self-hosted
-
-- **Jellyfin:** A Free Software Media System that puts you in control of managing and streaming your media [[Source](https://github.com/jellyfin/jellyfin-androidtv)] [[Website](https://jellyfin.org/)] [[F-Droid](https://f-droid.org/en/packages/org.jellyfin.androidtv/)] [[Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv)]
-- **DSub:** Connect to your Subsonic server and listen to your music wherever you go [[Source](https://github.com/daneren2005/Subsonic)] [[F-Droid](https://f-droid.org/en/packages/github.daneren2005.dsub)] [[Google Play](https://play.google.com/store/apps/details?id=github.daneren2005.dsub)] 🖱️
-
-### Streaming - Twitch
-
-- **S0undTV:** An alternative app to watch the Twitch streaming service for Android TV devices [[Source](https://github.com/S0und/S0undTV)] [[Google Play](https://play.google.com/store/apps/details?id=com.s0und.s0undtv)]
-- **SmartTwitchTV:** A Twitch web client that works on Android TVs [[Source](https://github.com/fgl27/SmartTwitchTV)] [[Google Play](https://play.google.com/store/apps/details?id=com.fgl27.twitch)]
-
-### Streaming - Other
+### 流媒体 - 其它
 
 - **Moonlight:** Play games from your PC on Android [[Source](https://github.com/moonlight-stream/moonlight-android)] [[Website](https://moonlight-stream.org/)] [[F-Droid](https://f-droid.org/packages/com.limelight/)] [[Google Play](https://play.google.com/store/apps/details?id=com.limelight)]
 - **M3U:** Stream media player on Android devices [[Source](https://github.com/realOxy/M3UAndroid)] [[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
 - **FCast:** An open-source protocol designed to open wireless audio and video streaming to everybody. [[Source](https://gitlab.futo.org/videostreaming/fcast)] [[Website](https://fcast.org/)] [[Google Play](https://play.google.com/store/apps/details?id=com.futo.fcast.receiver.playstore)]
 - **UniTV:** A Flutter-based application that allows users to watch TV channels from any country. [[Source](https://github.com/VinsonGuo/flutter_iptv_client)] [[Google Play](https://play.google.com/store/apps/details?id=com.vinsonguo.flutter_iptv_client)]
 
-### File Browser
+### 文件管理器
 
 - **Ghost Commander:** Dual-panel file manager [[Source](https://sourceforge.net/p/ghostcommander)] [[Website](https://sites.google.com/site/ghostcommander1)] [[F-Droid](https://f-droid.org/en/packages/com.ghostsq.commander)] [[Google Play](https://play.google.com/store/apps/details?id=com.ghostsq.commander)]
 - **Amaze:** Simple and attractive Material Design file manager for Android [[Source](https://github.com/TeamAmaze/AmazeFileManager)] [[Website](https://teamamaze.xyz/)] [[F-Droid](https://f-droid.org/packages/com.amaze.filemanager/)] [[Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager)]
@@ -111,7 +89,7 @@
 - **OI File Manager:** OI File Manager [[Source](https://github.com/openintents/filemanager)] [[F-Droid](https://f-droid.org/en/packages/org.openintents.filemanager/)] [[Google Play](https://play.google.com/store/apps/details?id=org.openintents.filemanager)]
 - **FireFiles:** FireFiles is based on AnExplorer. It is a light-weight but powerful file manager for everything that runs on Android OS [[Source](https://github.com/gigabytedevelopers/FireFiles/issues)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gigabytedevelopersinc.app.explorer)]] [[Google Play](https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.app.explorer)] 🛑
 
-### Download Manager
+### 下载管理器
 
 - **Download Navi:** A free and Open Source download manager [[Source](https://github.com/TachibanaGeneralLaboratories/download-navi)] [[F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)] [[Google play](https://play.google.com/store/apps/details?id=com.tachibana.downloader)]
 - **BiglyBT:** Fully featured open source bittorrent client and remote control [[Source](https://github.com/BiglySoftware/BiglyBT-Android)] [[Website](https://www.biglybt.com/)] [[F-Droid](https://f-droid.org/packages/com.biglybt.android.client/)]
