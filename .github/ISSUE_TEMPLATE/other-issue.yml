@@ -1,13 +1,13 @@
-name: Bug Report
-description: Report an issue
-title: "[Bug Report]: "
+name: Bug 报告
+description: 报告描述不正确的地方
+title: "[Bug 报告]: "
 labels: ["bug"]
 
 body:
   - type: textarea
     id: description
     attributes:
-      label: Description
-      placeholder: Please describe the bug in detail
+      label: 描述
+      placeholder: 请详细的描述具体是那个地方描述有误
     validations:
       required: true
