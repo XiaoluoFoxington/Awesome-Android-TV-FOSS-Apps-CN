@@ -1,10 +1,10 @@
-> A curated list of FOSS Android TV apps
+> 适用于 Android TV 的开源软件列表
 
-- **Legend:**
-  - 🖱️ Partial remote support
-    - Some UI elements cannot be accessible with the TV remote
-  - 📺 Missing TV launcher icon
-    - Create custom launcher icon with [Android TV App Launcher Builder](http://atvlauncher.trekgonewild.de/)
+- **图例**
+  - 🖱️ 有时需要鼠标
+    - 有些界面元素无法使用遥控器操作
+  - 📺 缺失桌面图标
+    - 使用 [Android TV App Launcher Builder](http://atvlauncher.trekgonewild.de/) 创建一个快捷方式
   - 🤖 Requires ROOT
   - 🚫 Incompatible with some devices
   - ⚠️ App includes non-free components
