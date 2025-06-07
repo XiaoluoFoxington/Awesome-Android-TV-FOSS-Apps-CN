@@ -3,19 +3,19 @@
 - **图例**
   - 🖱️ 有时需要鼠标
     - 有些界面元素无法使用遥控器操作
-  - 📺 缺失桌面图标
+  - 📺 缺失启动器图标
     - 使用 [Android TV App Launcher Builder](http://atvlauncher.trekgonewild.de/) 创建一个快捷方式
-  - 🤖 Requires ROOT
-  - 🚫 Incompatible with some devices
-  - ⚠️ App includes non-free components
-  - 🛑 Development (possible) stopped
+  - 🤖 需要 ROOT
+  - 🚫 不兼容某些设备
+  - ⚠️ 包含闭源内容
+  - 🛑 （可能）停更
 
-## Table of Contents
+## 目录
 
-- [Table of Contents](#table-of-contents)
-- [Apps](#apps)
-  - [Launcher](#launcher)
-  - [Keyboard](#keyboard)
+- [目录](#目录)
+- [应用](#应用)
+  - [启动器](#启动器)
+  - [输入法](#输入法)
   - [App Store](#app-store)
   - [Web Browser](#web-browser)
   - [Media Player](#media-player)
@@ -37,15 +37,15 @@
 - [More Awesome Lists](#more-awesome-lists)
 - [License](#license)
 
-## Apps
+## 应用
 
-### Launcher
+### 启动器
 
 - **FLauncher:** Alternative launcher for Android TV [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
 - **FLauncher (fork):** Alternative launcher for Android TV [[Source](https://github.com/CocoCR300/flauncher)]
 - **LeanbackLauncher:** Google Leanback Launcher on steroids [[Source](https://github.com/tsynik/LeanbackLauncher)]
 
-### Keyboard
+### 输入法
 
 - **LeanKeyKeyboard:** Keyboard for Android-based set-top boxes and TV [[Source](https://github.com/yuliskov/LeanKeyKeyboard)] [[Google Play](https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard)]
 
