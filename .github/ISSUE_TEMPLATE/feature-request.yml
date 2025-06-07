@@ -1,68 +1,68 @@
-name: App Request
-description: Suggest and Android TV App
-title: "[App Request]: "
-labels: ["app-request"]
+name: 应用请求
+description: 推荐 Android TV 应用
+title: "[应用请求]: "
+labels: ["应用请求"]
 
 body:
   - type: input
     id: app-name
     attributes:
-      label: Name of App
-      placeholder: ex. VLC (Required)
+      label: 应用名称
+      placeholder: 例如：VLC（必填）
     validations:
       required: true
   - type: input
     id: source
     attributes:
-      label: Source Code of the App
-      placeholder: ex. https://github.com/videolan/vlc-android (Required)
+      label: 应用源码
+      placeholder: 例如：https://github.com/videolan/vlc-android（必填）
     validations:
       required: true
   - type: input
     id: category
     attributes:
-      label: App Category
-      placeholder: ex. Media Player (Required)
+      label: 应用分类
+      placeholder: 例如：媒体播放器（必填）
     validations:
       required: true
   - type: input
     id: website
     attributes:
-      label: App Website
-      placeholder: ex. https://www.videolan.org/vlc/ (Optional)
+      label: 应用官网
+      placeholder: 例如：https://www.videolan.org/vlc/（可选）
     validations:
       required: false
   - type: textarea
     id: description
     attributes:
-      label: App Description
-      placeholder: ex. A free and open source multimedia player (Required)
+      label: 应用描述
+      placeholder: 例如：一款免费开源的跨平台媒体播放器（必填）
     validations:
       required: true
   - type: dropdown
     id: remote-support
     attributes:
-      label: Remote Support
-      description: Is the app UI fully accessible with standard remote controls? (D-Pad, Volume Up/Down, etc.)
+      label: 遥控器支持
+      description: 该应用界面是否完全支持标准遥控器操作？（方向键、音量键等）
       options:
-        - "Full"
-        - "Partial"
+        - "完全支持"
+        - "部分支持"
     validations:
       required: true
   - type: dropdown
     id: launcher-icon
     attributes:
-      label: Launcher Icon
-      description: Does the app have a launcher icon?
+      label: 启动器图标
+      description: 应用是否包含启动器图标？
       options:
-        - "Yes"
-        - "No"
+        - "是"
+        - "否"
     validations:
       required: true
   - type: textarea
     id: additional-info
     attributes:
-      label: Additional Information
-      placeholder: ex. Feature X is unaccessible with standard remote controls (Optional)
+      label: 补充信息
+      placeholder: 例如：某功能无法通过标准遥控器操作（可选）
     validations:
       required: false
